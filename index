@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BELAJAR HTML EKA PUTRA</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body> 
+   <header>
+        <div class="main"> 
+             <div class="logo"><ing src="dxd.png"></div>
+             <ul>
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Website</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+        </div>
+        <div class="button">
+            <a href="#" class="btnl">TONTON VIDEO</a>
+            <a href="#" class="btnl">TELUSURI</a>
+         </div>
+          <div class="title">
+                <h1>BELAJAR HTML EKA PUTRA</h1>
+                </div>
+   </header>
+
+   </body>
+   </html>
+
+             
